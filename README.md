@@ -32,10 +32,3 @@ A tela contém:
 ## 💡 Importância de Desenvolver Sem Tutorial
 Construir a tela sem seguir um guia passo a passo fortalece a capacidade de resolver problemas de forma autônoma e ajuda a fixar conceitos essenciais.  
 Assim, em vez de apenas repetir comandos, você aprende **por que** cada elemento é usado e **como** adaptá-lo em diferentes contextos.
-
----
-
-## 🚀 Como Executar
-1. Baixe ou clone este repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/tela-de-login-html-css.git
